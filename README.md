@@ -1,7 +1,7 @@
 # 🌌 CosmosChronicle – Interactive Space Mission Timeline  
 
 > **Explore humanity’s journey to the stars.**  
-A 3D interactive timeline of **ISRO, NASA, and SpaceX missions** – built with a hypermodern dark theme, sleek minimal UI, and subtle rocket animations.  
+ A 3D interactive timeline of **ISRO, NASA, and SpaceX missions** – built with a hypermodern dark theme, sleek minimal UI, and subtle rocket animations.  
 
 ---
 
